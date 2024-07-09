@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="596.93005mm"
+   height="556.97833mm"
+   viewBox="0 0 596.93005 556.97833"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="custom-layout-solutions.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.23280404"
+     inkscape:cx="1387.4329"
+     inkscape:cy="1069.5691"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showborder="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="1314.7904"
+       y="2002.6531"
+       width="120.04446"
+       height="48.632202"
+       id="rect48" />
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-0-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-0-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-0-7-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7-3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-4-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-4-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-6-45" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-4-1-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-9-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-4-1-0-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-9-9-4-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;paint-order:fill markers stroke"
+       id="rect2"
+       width="632.21307"
+       height="586.12891"
+       x="270.63995"
+       y="106.48771"
+       rx="5.0000014"
+       ry="4.9999995"
+       transform="translate(-289.17022,-115.23899)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-289.17021,-115.23899)">
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1"
+       width="92.531013"
+       height="32.808861"
+       x="529.20404"
+       y="243.95628"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="562.96442"
+       y="252.64262"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="562.96442"
+         y="252.64262">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="540.42908"
+       y="261.58249"
+       id="text2-0"><tspan
+         sodipodi:role="line"
+         id="tspan2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="540.42908"
+         y="261.58249">sometimes tap misinterpreted</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="540.42908"
+         y="268.84024"
+         id="tspan3">as a modifier</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62"
+       width="92.531013"
+       height="25.849648"
+       x="420.37003"
+       y="376.72931"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="450.85776"
+       y="384.59534"
+       id="text2-58"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="450.85776"
+         y="384.59534">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="427.42807"
+       y="396.60712"
+       id="text2-0-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="427.42807"
+         y="396.60712"
+         id="tspan3-4">Using a modifier takes eternity</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-0"
+       width="98.777748"
+       height="33.920227"
+       x="289.37021"
+       y="465.16382"
+       rx="5.0000005"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="319.85794"
+       y="473.02985"
+       id="text2-58-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-01"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="319.85794"
+         y="473.02985">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="296.42825"
+       y="485.04163"
+       id="text2-0-2-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="296.42825"
+         y="485.04163"
+         id="tspan3-4-7">Fast typing causes SHIFT to be</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="296.42825"
+         y="492.29938"
+         id="tspan47">interpreted as an alpha key (tap)</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3"
+       width="87.14711"
+       height="33.900669"
+       x="522.8595"
+       y="377.30878"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="553.34723"
+       y="385.1748"
+       id="text2-58-38"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="553.34723"
+         y="385.1748">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="529.91754"
+       y="397.18658"
+       id="text2-0-2-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="529.91754"
+         y="397.18658"
+         id="tspan3-4-6">Same hand mod+alpha key</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="529.91754"
+         y="404.44434"
+         id="tspan13">combos won't work</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-3"
+       width="95.073441"
+       height="34.086315"
+       x="571.22589"
+       y="435.53458"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="600.96857"
+       y="444.22372"
+       id="text2-58-38-49"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="600.96857"
+         y="444.22372">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="581.39856"
+       y="455.09152"
+       id="text2-0-2-5-20"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="581.39856"
+         y="455.09152"
+         id="tspan42">same hand mod+alpha key</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="581.39856"
+         y="462.34927"
+         id="tspan43">combos have a small delay.</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-3-9"
+       width="93.620888"
+       height="34.719772"
+       x="673.94727"
+       y="436.34128"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="703.68994"
+       y="445.03043"
+       id="text2-58-38-49-0"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="703.68994"
+         y="445.03043">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="681.31268"
+       y="455.89822"
+       id="text2-0-2-5-20-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.31268"
+         y="455.89822"
+         id="tspan43-4">Using just a modifier key has a</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.31268"
+         y="463.15598"
+         id="tspan44">small delay.</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-02"
+       width="92.533676"
+       height="32.447811"
+       x="432.38986"
+       y="529.28778"
+       rx="5.0000005"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="463.21289"
+       y="538.48779"
+       id="text2-58-38-9"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="463.21289"
+         y="538.48779">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="435.88412"
+       y="547.89014"
+       id="text2-0-2-5-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="435.88412"
+         y="547.89014"
+         id="tspan26">Rolling keys may cause alpha keys</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="435.88412"
+         y="555.14789"
+         id="tspan27">to be misinterpreted as mods</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-02-7"
+       width="91.557777"
+       height="39.030716"
+       x="293.13593"
+       y="577.36108"
+       rx="5.0000005"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="323.95895"
+       y="586.5611"
+       id="text2-58-38-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="323.95895"
+         y="586.5611">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="296.63019"
+       y="595.96344"
+       id="text2-0-2-5-3-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="296.63019"
+         y="595.96344"
+         id="tspan27-5">What's the purpose of the HRM </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="296.63019"
+         y="603.22119"
+         id="tspan49">shift key when there's a dedicated</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="296.63019"
+         y="610.47894"
+         id="tspan50">SHIFT?</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-02-5"
+       width="91.514549"
+       height="46.551514"
+       x="678.11859"
+       y="534.83411"
+       rx="5.0000005"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="708.94165"
+       y="544.03412"
+       id="text2-58-38-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="708.94165"
+         y="544.03412">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="681.61285"
+       y="553.43646"
+       id="text2-0-2-5-3-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.61285"
+         y="553.43646"
+         id="tspan27-0">Cannot use multiple same hand</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.61285"
+         y="560.69421"
+         id="tspan35">modifiers (because positional hold</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.61285"
+         y="567.95197"
+         id="tspan36">-tap is checked when key pressed</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="681.61285"
+         y="575.20972"
+         id="tspan37">down)</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-0"
+       width="92.531013"
+       height="25.849648"
+       x="566.63483"
+       y="334.29727"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="597.12256"
+       y="342.1633"
+       id="text2-58-38-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="597.12256"
+         y="342.1633">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="574.42792"
+       y="349.78104"
+       id="text2-0-2-5-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="574.42792"
+         y="349.78104"
+         id="tspan3-4-6-6">Cannot use just a modifier key</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="574.42792"
+         y="357.03879"
+         id="tspan14">(like: Super/Win/GUI)</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-1"
+       width="89.059784"
+       height="48.90834"
+       x="342.26764"
+       y="324.10959"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="372.95383"
+       y="332.57712"
+       id="text2-58-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="372.95383"
+         y="332.57712">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="348.44931"
+       y="342.21286"
+       id="text2-0-2-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="348.44931"
+         y="342.21286"
+         id="tspan3-4-0"><tspan
+   style="font-weight:bold"
+   id="tspan39">delay</tspan> between pressing a key</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="348.44931"
+         y="349.47061"
+         id="tspan29">and when it <tspan
+   style="font-weight:bold"
+   id="tspan45">appears on screen</tspan>.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="348.44931"
+         y="356.72833"
+         id="tspan30">This delay is determined on how</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="348.44931"
+         y="363.98608"
+         id="tspan38">quickly the key is released.</tspan></text>
+    <g
+       id="g3-4"
+       transform="translate(489.89587,92.109147)"
+       style="fill:#be931a;fill-opacity:1">
+      <rect
+         style="fill:#be931a;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-0"
+         width="92.531013"
+         height="32.808861"
+         x="78.210045"
+         y="23.329845"
+         rx="5.000001"
+         ry="5.000001" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="111.97046"
+         y="32.016186"
+         id="text2-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+           x="111.97046"
+           y="32.016186">problem</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="86.242737"
+         y="41.097813"
+         id="text2-0-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="86.242737"
+           y="41.097813"
+           id="tspan5">Want to have easily accessible</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="86.242737"
+           y="48.355556"
+           id="tspan7">modifiers in sub-40% layout</tspan></text>
+    </g>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6"
+       width="92.531013"
+       height="32.808861"
+       x="453.36014"
+       y="311.23032"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="487.12054"
+       y="319.91666"
+       id="text2-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="487.12054"
+         y="319.91666">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="461.25815"
+       y="329.0499"
+       id="text2-0-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="461.25815"
+         y="329.0499"
+         id="tspan3-0">increase <tspan
+   style="font-weight:bold"
+   id="tspan8"><tspan
+   style="fill:#fefc00;fill-opacity:1"
+   id="tspan9">tapping-term-ms</tspan> </tspan>into</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="461.25815"
+         y="336.30765"
+         id="tspan19">a large number</tspan></text>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6-7"
+       width="106.96822"
+       height="41.918037"
+       x="290.81812"
+       y="394.7338"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="324.57855"
+       y="403.42014"
+       id="text2-4-49"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="324.57855"
+         y="403.42014">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="298.71613"
+       y="412.55338"
+       id="text2-0-0-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="298.71613"
+         y="412.55338"
+         id="tspan3-0-5">use non-zero</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="298.71613"
+         y="419.81113"
+         id="tspan19-57"><tspan
+   style="font-weight:bold"
+   id="tspan40"><tspan
+   style="fill:#fefc00;fill-opacity:1"
+   id="tspan41">require-prior-idle-ms</tspan> </tspan>(e.g. 150ms); </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="298.71613"
+         y="427.06885"
+         id="tspan46">when fast typing, everything is a &quot;tap&quot;.</tspan></text>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6-7-9"
+       width="87.649757"
+       height="29.951401"
+       x="293.46429"
+       y="519.77429"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="320.53897"
+       y="529.32867"
+       id="text2-4-49-9"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="320.53897"
+         y="529.32867">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="305.54312"
+       y="541.58905"
+       id="text2-0-0-4-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="305.54312"
+         y="541.58905"
+         id="tspan46-8"><tspan
+           style="font-weight:bold;fill:#fefc00;fill-opacity:1"
+           id="tspan40-3">dedicated SHIFT key</tspan></tspan></text>
+    <g
+       id="g27">
+      <rect
+         style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-6-1"
+         width="92.740334"
+         height="55.827736"
+         x="410.80814"
+         y="440.90332"
+         rx="5.000001"
+         ry="5.000001" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="444.56854"
+         y="449.58966"
+         id="text2-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+           x="444.56854"
+           y="449.58966">solution</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="418.70615"
+         y="458.7229"
+         id="text2-0-0-22"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="418.70615"
+           y="458.7229"
+           id="tspan19-5">Use ZMK's <tspan
+   style="font-weight:bold"
+   id="tspan8-0"><tspan
+   style="fill:#fefc00;fill-opacity:1"
+   id="tspan9-5">balanced</tspan> </tspan>flavor of</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="418.70615"
+           y="465.98065"
+           id="tspan20">hold-tap, which triggers hold</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="418.70615"
+           y="473.23837"
+           id="tspan21">behavior also when an another</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="418.70615"
+           y="480.49612"
+           id="tspan22">key is pressed and released</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="418.70615"
+           y="487.75388"
+           id="tspan23">while holding the modifier.</tspan></text>
+    </g>
+    <g
+       id="g27-4"
+       transform="translate(141.74555,81.695524)">
+      <rect
+         style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-6-1-7"
+         width="92.740334"
+         height="40.82642"
+         x="415.58182"
+         y="451.45648"
+         rx="5.000001"
+         ry="5.000001" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="449.34222"
+         y="460.14282"
+         id="text2-4-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-3-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+           x="449.34222"
+           y="460.14282">solution</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="423.47983"
+         y="469.27606"
+         id="text2-0-0-22-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="423.47983"
+           y="469.27606"
+           id="tspan23-3">ZMK's <tspan
+   style="font-weight:bold;fill:#fefc00;fill-opacity:1"
+   id="tspan8-0-6">positional hold-tap</tspan>:</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="423.47983"
+           y="476.53381"
+           id="tspan32">Always tap if next key is on the</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="423.47983"
+           y="483.79153"
+           id="tspan33"><tspan
+   style="font-weight:bold;fill:#fff90d;fill-opacity:1"
+   id="tspan34">same half</tspan>.</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="423.47983"
+           y="491.04929"
+           id="tspan31" /></text>
+    </g>
+    <g
+       id="g27-4-2"
+       transform="translate(375.42809,85.970252)">
+      <rect
+         style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-6-1-7-4"
+         width="92.740334"
+         height="40.82642"
+         x="417.73184"
+         y="451.00235"
+         rx="5.000001"
+         ry="5.000001" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="451.49225"
+         y="459.68869"
+         id="text2-4-0-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-3-4-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+           x="451.49225"
+           y="459.68869">solution</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+         x="425.3877"
+         y="469.19534"
+         id="text2-0-0-22-9-3"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="425.3877"
+           y="469.19534"
+           id="tspan23-3-9">ZMK's <tspan
+   style="font-weight:bold;fill:#fefc00;fill-opacity:1"
+   id="tspan8-0-6-2">hold-trigger-on-release</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="425.3877"
+           y="476.45309"
+           id="tspan32-8">delay the positional-hold-tap</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="425.3877"
+           y="483.71082"
+           id="tspan33-3">decision on next key's <tspan
+   style="font-weight:bold;fill:#fff90d;fill-opacity:1"
+   id="tspan34-0">release</tspan>.</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+           x="425.3877"
+           y="490.96857"
+           id="tspan31-1" /></text>
+    </g>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6-6"
+       width="92.531013"
+       height="32.808861"
+       x="640.00812"
+       y="380.55872"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="673.76855"
+       y="389.24506"
+       id="text2-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="673.76855"
+         y="389.24506">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="650.8819"
+       y="398.45367"
+       id="text2-0-0-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="650.8819"
+         y="398.45367"
+         id="tspan4-9">use smaller but large enough</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="650.8819"
+         y="405.71143"
+         id="tspan15"><tspan
+   style="font-weight:bold;fill:#ffff2f;fill-opacity:1"
+   id="tspan17">tapping-term-ms</tspan> (e.g. 280ms)</tspan></text>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6-5"
+       width="92.531013"
+       height="31.785299"
+       x="565.17395"
+       y="174.62248"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="595.48486"
+       y="183.38031"
+       id="text2-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="595.48486"
+         y="183.38031">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="571.61737"
+       y="191.59892"
+       id="text2-0-0-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="571.61737"
+         y="191.59892"
+         id="tspan4-8">Home Row Mods (GUI, Alt, Shift,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="571.61737"
+         y="198.85666"
+         id="tspan6">Ctrl)  using <tspan
+   style="font-weight:bold;fill:#fcfc0a;fill-opacity:1"
+   id="tspan11">hold-tap</tspan></tspan></text>
+    <rect
+       style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-6-5-9"
+       width="92.531013"
+       height="31.785299"
+       x="292.51242"
+       y="640.23206"
+       rx="5.000001"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="322.82333"
+       y="648.98987"
+       id="text2-4-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="322.82333"
+         y="648.98987">solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="298.95584"
+       y="657.2085"
+       id="text2-0-0-1-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="298.95584"
+         y="657.2085"
+         id="tspan6-7">Home Row Mods <tspan
+   style="font-weight:bold;fill:#ffff19;fill-opacity:1"
+   id="tspan54">without Shift</tspan>; </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="298.95584"
+         y="664.46625"
+         id="tspan52">only GUI, Alt, Ctrl.</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe);paint-order:fill markers stroke"
+       d="m 544.3218,277.86865 c -16.77202,11.37661 -22.95992,18.19173 -31.45246,31.49148"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4);paint-order:fill markers stroke"
+       d="m 467.90542,402.88167 c -6.45861,8.48846 -9.99372,9.60201 -13.36893,33.7262"
+       id="path4-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-6);paint-order:fill markers stroke"
+       d="m 570.5677,450.72334 c -14.15163,4.16467 -35.23537,-0.39551 -63.32865,5.95026"
+       id="path4-3-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1);paint-order:fill markers stroke"
+       d="m 371.18349,374.0667 c -3.86019,6.69284 -6.12839,7.35294 -11.90571,18.86763"
+       id="path4-3-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1-0);paint-order:fill markers stroke"
+       d="m 340.8318,500.26626 c -2.16386,7.45919 -2.69835,6.67019 -4.65239,17.34536"
+       id="path4-3-7-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1-0-3);paint-order:fill markers stroke"
+       d="m 341.20573,617.8586 c -2.16386,7.45919 -2.69835,6.67019 -4.65239,17.34536"
+       id="path4-3-7-7-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0);paint-order:fill markers stroke"
+       d="m 627.87607,361.79236 c 7.549,11.58674 9.64946,4.61 21.87047,16.96083"
+       id="path4-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7);paint-order:fill markers stroke"
+       d="m 526.54938,548.36789 c 11.6721,-1.02025 12.45234,-0.99136 28.55373,4.41217"
+       id="path4-8-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-9);paint-order:fill markers stroke"
+       d="m 770.06338,557.18547 c 12.29963,2.77598 10.862,2.25805 21.39988,1.06696"
+       id="path4-8-6-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-4);paint-order:fill markers stroke"
+       d="m 610.79906,399.38617 c 13.64704,-3.70937 11.96191,-5.54472 27.22785,-5.15054"
+       id="path4-8-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe);paint-order:fill markers stroke"
+       d="m 612.51622,149.44169 c 0,0 -0.3125,4.49503 -2.38806,8.86344 -2.89092,6.0845 -7.34589,5.33591 -8.9019,14.41736"
+       id="path4-1"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a);paint-order:fill markers stroke"
+       d="m 597.90211,208.08947 c 0,0 -6.76846,7.52175 -9.24212,13.02067 -0.18768,0.41721 -3.03032,6.4649 -5.1907,19.05422"
+       id="path4-1-5"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a);paint-order:fill markers stroke"
+       d="m 485.61206,345.43235 c 0,0 -1.76679,5.04593 -4.24045,10.54485 -0.18768,0.41721 -3.95667,5.38238 -6.11705,17.9717"
+       id="path4-1-5-9"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6);paint-order:fill markers stroke"
+       d="m 524.90295,345.1027 c 0,0 7.19946,11.53882 8.64161,15.52127 2.72552,7.52643 0.65532,1.99733 4.75485,14.06922"
+       id="path4-1-5-9-7"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-4);paint-order:fill markers stroke"
+       d="m 705.11276,414.31331 c 1.99253,2.75403 7.45398,10.76085 10.45999,19.61265"
+       id="path4-1-5-9-7-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-4-2);paint-order:fill markers stroke"
+       d="m 661.57318,413.75355 c -1.99253,2.75403 -7.45398,10.76085 -10.45999,19.61265"
+       id="path4-1-5-9-7-8-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22);paint-order:fill markers stroke"
+       d="m 463.90991,496.74122 c 0,0 7.19946,11.53882 8.64161,15.52127 2.72552,7.52643 0.65532,1.99733 4.75485,14.06922"
+       id="path4-1-5-9-7-1"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-8);paint-order:fill markers stroke"
+       d="m 337.51909,551.15218 c 6.59776,7.77343 6.56447,13.95588 9.24451,22.09377"
+       id="path4-1-5-9-7-1-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-6);paint-order:fill markers stroke"
+       d="m 341.60931,436.49043 c 1.41705,8.48756 1.80609,16.318 1.01348,25.6896"
+       id="path4-1-5-9-7-1-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-0);paint-order:fill markers stroke"
+       d="m 651.0831,554.46721 c 12.16522,-1.60644 14.93644,1.20892 24.51723,2.17137"
+       id="path4-1-5-9-7-1-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-2);paint-order:fill markers stroke"
+       d="m 546.21074,337.48779 c 13.10423,4.80982 14.38626,6.66323 18.90249,8.22678"
+       id="path4-1-5-9-7-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-0);paint-order:fill markers stroke"
+       d="M 561.1794,204.83159 C 509.27277,232.82614 422.73175,298.33328 415.41722,322.12068"
+       id="path4-1-5-9-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text48"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8939px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect48);display:inline;fill:#acbd19;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;paint-order:fill markers stroke" />
+  </g>
+</svg>
