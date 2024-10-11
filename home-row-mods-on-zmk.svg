@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="custom-layout-solutions.svg"
+   sodipodi:docname="home-row-mods-on-zmk.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.23280404"
-     inkscape:cx="1387.4329"
-     inkscape:cy="1069.5691"
+     inkscape:zoom="0.46560808"
+     inkscape:cx="1464.7512"
+     inkscape:cy="1712.8139"
      inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showborder="false" />
   <defs
      id="defs1">
@@ -347,7 +347,7 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="marker7_Fnone_S-be931a-6-22-6"
+       id="marker7_Fnone_S-be931a-6-22-2"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
@@ -362,11 +362,11 @@
          transform="scale(0.5)"
          style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path1-6-9-6-45" />
+         id="path1-6-9-6-2" />
     </marker>
     <marker
        style="overflow:visible"
-       id="Triangle_Fnone_S-1a5dbe-4-1-0"
+       id="Triangle_Fnone_S-1a5dbe-0-7-1"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
@@ -381,11 +381,30 @@
          transform="scale(0.5)"
          style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path1-9-9-4" />
+         id="path1-7-3-2" />
     </marker>
     <marker
        style="overflow:visible"
-       id="marker7_Fnone_S-be931a-6-22-8"
+       id="Triangle_Fnone_S-1a5dbe-0-7-1-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7-3-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22-0-0"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
@@ -400,11 +419,11 @@
          transform="scale(0.5)"
          style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path1-6-9-6-3" />
+         id="path1-6-9-6-4-6" />
     </marker>
     <marker
        style="overflow:visible"
-       id="Triangle_Fnone_S-1a5dbe-4-1-0-3"
+       id="Triangle_Fnone_S-1a5dbe-0-7-7"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
@@ -419,13 +438,52 @@
          transform="scale(0.5)"
          style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path1-9-9-4-5" />
+         id="path1-7-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7_Fnone_S-be931a-6-22-0-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#be931a;fill-rule:evenodd;stroke:#be931a;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-6-9-6-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-1a5dbe-0-7-9-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#1a5dbe;fill-rule:evenodd;stroke:#1a5dbe;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1-7-3-1-4" />
     </marker>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;paint-order:fill markers stroke"
        id="rect2"
@@ -514,36 +572,36 @@
        id="rect1-62-0"
        width="98.777748"
        height="33.920227"
-       x="289.37021"
-       y="465.16382"
+       x="437.28033"
+       y="635.03607"
        rx="5.0000005"
        ry="5.000001" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="319.85794"
-       y="473.02985"
+       x="467.76807"
+       y="642.9021"
        id="text2-58-1"><tspan
          sodipodi:role="line"
          id="tspan2-6-01"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
-         x="319.85794"
-         y="473.02985">problem</tspan></text>
+         x="467.76807"
+         y="642.9021">problem</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="296.42825"
-       y="485.04163"
+       x="444.33838"
+       y="654.91388"
        id="text2-0-2-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="296.42825"
-         y="485.04163"
+         x="444.33838"
+         y="654.91388"
          id="tspan3-4-7">Fast typing causes SHIFT to be</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="296.42825"
-         y="492.29938"
+         x="444.33838"
+         y="661.90265"
          id="tspan47">interpreted as an alpha key (tap)</tspan></text>
     <rect
        style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
@@ -654,14 +712,14 @@
          y="463.15598"
          id="tspan44">small delay.</tspan></text>
     <rect
-       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.448823;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1-62-3-02"
-       width="92.533676"
-       height="32.447811"
-       x="432.38986"
-       y="529.28778"
-       rx="5.0000005"
-       ry="5.000001" />
+       width="101.17735"
+       height="37.362324"
+       x="425.6474"
+       y="529.22455"
+       rx="5.4670563"
+       ry="5.7572961" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
@@ -676,59 +734,105 @@
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="435.88412"
-       y="547.89014"
+       x="428.41803"
+       y="546.97119"
        id="text2-0-2-5-3"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="435.88412"
-         y="547.89014"
-         id="tspan26">Rolling keys may cause alpha keys</tspan><tspan
+         x="428.41803"
+         y="546.97119"
+         id="tspan26">Rolling keys (same side) may</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="435.88412"
-         y="555.14789"
-         id="tspan27">to be misinterpreted as mods</tspan></text>
+         x="428.41803"
+         y="553.95996"
+         id="tspan4">cause alpha keys to be misinterpreted</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="428.41803"
+         y="560.94873"
+         id="tspan10">as mods</tspan></text>
+    <rect
+       style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.448823;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-62-3-02-8"
+       width="101.17735"
+       height="37.362324"
+       x="416.98117"
+       y="569.32697"
+       rx="5.4670563"
+       ry="5.7572961" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="454.54666"
+       y="578.59021"
+       id="text2-58-38-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0-4-92"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="454.54666"
+         y="578.59021">problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
+       x="419.7518"
+       y="587.07361"
+       id="text2-0-2-5-3-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="419.7518"
+         y="587.07361"
+         id="tspan26-2">Rolling keys (opposite side) may</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="419.7518"
+         y="594.06238"
+         id="tspan4-3">cause alpha keys to be misinterpreted</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
+         x="419.7518"
+         y="601.05115"
+         id="tspan10-7">as mods</tspan></text>
     <rect
        style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1-62-3-02-7"
        width="91.557777"
        height="39.030716"
-       x="293.13593"
-       y="577.36108"
+       x="679.12231"
+       y="635.43445"
        rx="5.0000005"
        ry="5.000001" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="323.95895"
-       y="586.5611"
+       x="709.94531"
+       y="644.63446"
        id="text2-58-38-9-5"><tspan
          sodipodi:role="line"
          id="tspan2-6-0-4-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
-         x="323.95895"
-         y="586.5611">problem</tspan></text>
+         x="709.94531"
+         y="644.63446">problem</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="296.63019"
-       y="595.96344"
+       x="682.61658"
+       y="654.0368"
        id="text2-0-2-5-3-7"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="296.63019"
-         y="595.96344"
+         x="682.61658"
+         y="654.0368"
          id="tspan27-5">What's the purpose of the HRM </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="296.63019"
-         y="603.22119"
+         x="682.61658"
+         y="661.02557"
          id="tspan49">shift key when there's a dedicated</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="296.63019"
-         y="610.47894"
+         x="682.61658"
+         y="668.01434"
          id="tspan50">SHIFT?</tspan></text>
     <rect
        style="fill:#bd9219;fill-opacity:1;stroke:#be931a;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
@@ -948,36 +1052,36 @@
        id="rect1-6-7"
        width="106.96822"
        height="41.918037"
-       x="290.81812"
-       y="394.7338"
+       x="294.28534"
+       y="601.06744"
        rx="5.000001"
        ry="5.000001" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="324.57855"
-       y="403.42014"
+       x="328.04578"
+       y="609.75378"
        id="text2-4-49"><tspan
          sodipodi:role="line"
          id="tspan2-3-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
-         x="324.57855"
-         y="403.42014">solution</tspan></text>
+         x="328.04578"
+         y="609.75378">solution</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="298.71613"
-       y="412.55338"
+       x="302.18335"
+       y="618.88702"
        id="text2-0-0-4"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="298.71613"
-         y="412.55338"
+         x="302.18335"
+         y="618.88702"
          id="tspan3-0-5">use non-zero</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="298.71613"
-         y="419.81113"
+         x="302.18335"
+         y="625.87579"
          id="tspan19-57"><tspan
    style="font-weight:bold"
    id="tspan40"><tspan
@@ -985,39 +1089,39 @@
    id="tspan41">require-prior-idle-ms</tspan> </tspan>(e.g. 150ms); </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="298.71613"
-         y="427.06885"
+         x="302.18335"
+         y="632.86456"
          id="tspan46">when fast typing, everything is a &quot;tap&quot;.</tspan></text>
     <rect
        style="fill:#1a5dbe;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.399999;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1-6-7-9"
        width="87.649757"
        height="29.951401"
-       x="293.46429"
-       y="519.77429"
+       x="567.04187"
+       y="637.30438"
        rx="5.000001"
        ry="5.000001" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="320.53897"
-       y="529.32867"
+       x="594.11652"
+       y="646.85876"
        id="text2-4-49-9"><tspan
          sodipodi:role="line"
          id="tspan2-3-9-4"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
-         x="320.53897"
-         y="529.32867">solution</tspan></text>
+         x="594.11652"
+         y="646.85876">solution</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="305.54312"
-       y="541.58905"
+       x="579.12067"
+       y="659.11914"
        id="text2-0-0-4-5"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="305.54312"
-         y="541.58905"
+         x="579.12067"
+         y="659.11914"
          id="tspan46-8"><tspan
            style="font-weight:bold;fill:#fefc00;fill-opacity:1"
            id="tspan40-3">dedicated SHIFT key</tspan></tspan></text>
@@ -1268,39 +1372,37 @@
        id="rect1-6-5-9"
        width="92.531013"
        height="31.785299"
-       x="292.51242"
-       y="640.23206"
+       x="796.24774"
+       y="638.77252"
        rx="5.000001"
        ry="5.000001" />
     <text
        xml:space="preserve"
        style="font-size:6.32194px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="322.82333"
-       y="648.98987"
+       x="826.55865"
+       y="647.53033"
        id="text2-4-4-3"><tspan
          sodipodi:role="line"
          id="tspan2-3-8-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.32194px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
-         x="322.82333"
-         y="648.98987">solution</tspan></text>
+         x="826.55865"
+         y="647.53033">solution</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.55052px;line-height:normal;font-family:Barlow;-inkscape-font-specification:'Barlow, Normal';text-decoration-color:#000000;fill:#fafcfe;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;paint-order:fill markers stroke"
-       x="298.95584"
-       y="657.2085"
+       x="802.69116"
+       y="655.74896"
        id="text2-0-0-1-4"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="298.95584"
-         y="657.2085"
-         id="tspan6-7">Home Row Mods <tspan
-   style="font-weight:bold;fill:#ffff19;fill-opacity:1"
-   id="tspan54">without Shift</tspan>; </tspan><tspan
+         x="802.69116"
+         y="655.74896"
+         id="tspan52">The purpose of HRM Shift </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55052px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fafcfe;fill-opacity:1;stroke:none;stroke-width:0.4"
-         x="298.95584"
-         y="664.46625"
-         id="tspan52">only GUI, Alt, Ctrl.</tspan></text>
+         x="802.69116"
+         y="662.73773"
+         id="tspan12">is to easily combo mods</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe);paint-order:fill markers stroke"
        d="m 544.3218,277.86865 c -16.77202,11.37661 -22.95992,18.19173 -31.45246,31.49148"
@@ -1318,18 +1420,8 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1);paint-order:fill markers stroke"
-       d="m 371.18349,374.0667 c -3.86019,6.69284 -6.12839,7.35294 -11.90571,18.86763"
+       d="m 371.18349,374.0667 c -3.86019,6.69284 -23.86521,208.71217 -22.43171,223.60752"
        id="path4-3-7"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1-0);paint-order:fill markers stroke"
-       d="m 340.8318,500.26626 c -2.16386,7.45919 -2.69835,6.67019 -4.65239,17.34536"
-       id="path4-3-7-7"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-4-1-0-3);paint-order:fill markers stroke"
-       d="m 341.20573,617.8586 c -2.16386,7.45919 -2.69835,6.67019 -4.65239,17.34536"
-       id="path4-3-7-7-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0);paint-order:fill markers stroke"
@@ -1338,13 +1430,33 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7);paint-order:fill markers stroke"
-       d="m 526.54938,548.36789 c 11.6721,-1.02025 12.45234,-0.99136 28.55373,4.41217"
+       d="m 527.89732,549.28797 c 11.6721,-1.02025 11.1044,-1.91144 27.20579,3.49209"
        id="path4-8-6"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-7);paint-order:fill markers stroke"
+       d="m 536.87336,648.57071 c 11.6721,-1.02025 11.1044,-1.91144 27.20579,3.49209"
+       id="path4-8-6-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-1);paint-order:fill markers stroke"
+       d="m 423.80629,549.49464 c -7.74384,1.23143 -27.95308,15.6849 -32.18765,21.36404 -6.2342,8.36091 -13.5683,15.64954 -14.28805,28.84168"
+       id="path4-8-6-3"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-1-6);paint-order:fill markers stroke"
+       d="m 416.05383,584.9883 c -7.74384,1.23143 -8.00449,1.56663 -11.65118,3.32533 -5.7477,2.77196 -7.09054,4.3666 -13.71924,10.01218"
+       id="path4-8-6-3-6"
+       sodipodi:nodetypes="csc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-9);paint-order:fill markers stroke"
        d="m 770.06338,557.18547 c 12.29963,2.77598 10.862,2.25805 21.39988,1.06696"
        id="path4-8-6-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-7-9-7);paint-order:fill markers stroke"
+       d="m 771.21896,652.98243 c 12.29963,2.77598 10.862,2.25805 21.39988,1.06696"
+       id="path4-8-6-4-3"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#1a5dbe;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-1a5dbe-0-4);paint-order:fill markers stroke"
@@ -1383,23 +1495,28 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22);paint-order:fill markers stroke"
-       d="m 463.90991,496.74122 c 0,0 7.19946,11.53882 8.64161,15.52127 2.72552,7.52643 0.65532,1.99733 4.75485,14.06922"
+       d="m 423.24647,496.80871 c 0,0 7.19946,11.53882 8.64161,15.52127 2.72552,7.52643 0.65532,1.99733 4.75485,14.06922"
        id="path4-1-5-9-7-1"
        sodipodi:nodetypes="csc" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-8);paint-order:fill markers stroke"
-       d="m 337.51909,551.15218 c 6.59776,7.77343 6.56447,13.95588 9.24451,22.09377"
-       id="path4-1-5-9-7-1-9"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-6);paint-order:fill markers stroke"
-       d="m 341.60931,436.49043 c 1.41705,8.48756 1.80609,16.318 1.01348,25.6896"
-       id="path4-1-5-9-7-1-0"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-2);paint-order:fill markers stroke"
+       d="m 416.56209,497.75003 c 0,0 -1.18452,30.66902 0.25763,34.65147 2.72552,7.52643 2.67696,22.80856 6.77649,34.88045"
+       id="path4-1-5-9-7-1-97"
+       sodipodi:nodetypes="csc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-0);paint-order:fill markers stroke"
        d="m 651.0831,554.46721 c 12.16522,-1.60644 14.93644,1.20892 24.51723,2.17137"
        id="path4-1-5-9-7-1-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-0-7);paint-order:fill markers stroke"
+       d="m 655.49645,653.83975 c 12.16522,-1.60644 11.58065,-0.23903 21.16144,0.72342"
+       id="path4-1-5-9-7-1-7-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-22-0-0);paint-order:fill markers stroke"
+       d="m 403.17011,637.4865 c 12.16522,-1.60644 22.53563,9.08278 32.11642,10.04523"
+       id="path4-1-5-9-7-1-7-5"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#be931a;stroke-width:0.4;stroke-linejoin:bevel;stroke-dashoffset:1.57133;stroke-opacity:0.764706;marker-end:url(#marker7_Fnone_S-be931a-6-2);paint-order:fill markers stroke"
